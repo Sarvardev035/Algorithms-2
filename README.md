@@ -7,4 +7,12 @@ I am actively solving leetcode problems and pushing it into github
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Sarvardev035/Algorithms-2/tree/master/0263-ugly-number) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sarvardev035/Algorithms-2/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sarvardev035/Algorithms-2/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
