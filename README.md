@@ -12,6 +12,7 @@ I am actively solving leetcode problems and pushing it into github
 | ------- |
 | [0035-search-insert-position](https://github.com/Sarvardev035/Algorithms-2/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvardev035/Algorithms-2/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0941-valid-mountain-array](https://github.com/Sarvardev035/Algorithms-2/tree/master/0941-valid-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
