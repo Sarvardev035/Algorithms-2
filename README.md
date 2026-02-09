@@ -17,6 +17,7 @@ I am actively solving leetcode problems and pushing it into github
 | [0217-contains-duplicate](https://github.com/Sarvardev035/Algorithms-2/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvardev035/Algorithms-2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0941-valid-mountain-array](https://github.com/Sarvardev035/Algorithms-2/tree/master/0941-valid-mountain-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Sarvardev035/Algorithms-2/tree/master/2248-intersection-of-multiple-arrays) |
 | [3379-transformed-array](https://github.com/Sarvardev035/Algorithms-2/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -41,8 +42,14 @@ I am actively solving leetcode problems and pushing it into github
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sarvardev035/Algorithms-2/tree/master/0217-contains-duplicate) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Sarvardev035/Algorithms-2/tree/master/2248-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sarvardev035/Algorithms-2/tree/master/0217-contains-duplicate) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Sarvardev035/Algorithms-2/tree/master/2248-intersection-of-multiple-arrays) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Sarvardev035/Algorithms-2/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
