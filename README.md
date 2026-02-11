@@ -30,6 +30,7 @@ I am actively solving leetcode problems and pushing it into github
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarvardev035/Algorithms-2/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/Sarvardev035/Algorithms-2/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +59,8 @@ I am actively solving leetcode problems and pushing it into github
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sarvardev035/Algorithms-2/tree/master/1232-check-if-it-is-a-straight-line) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sarvardev035/Algorithms-2/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
