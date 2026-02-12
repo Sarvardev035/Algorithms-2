@@ -31,6 +31,7 @@ I am actively solving leetcode problems and pushing it into github
 | ------- |
 | [0067-add-binary](https://github.com/Sarvardev035/Algorithms-2/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/Sarvardev035/Algorithms-2/tree/master/0796-rotate-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sarvardev035/Algorithms-2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I am actively solving leetcode problems and pushing it into github
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sarvardev035/Algorithms-2/tree/master/0217-contains-duplicate) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sarvardev035/Algorithms-2/tree/master/2248-intersection-of-multiple-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sarvardev035/Algorithms-2/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
